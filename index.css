@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* optional: import Inter or Poppins from Google in index.html, or use local */
+.font-inter { font-family: 'Inter', sans-serif; }
